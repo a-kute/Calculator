@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/atharva/CLionProjects/untitled/main.c
+/Users/atharva/CLionProjects/Calculator/main.c
 stdio.h
 -
 string.h
